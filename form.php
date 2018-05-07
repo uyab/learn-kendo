@@ -7,11 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Kendo UI from scratch to catch</title>
 
-    <!-- Common Kendo UI CSS for web widgets and widgets for data visualization. -->
-    <link href="styles/kendo.common.min.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <!-- Default Kendo UI theme CSS for web widgets and widgets for data visualization. -->
-    <link href="styles/kendo.default-v2.min.css" rel="stylesheet" type="text/css"/>
+    <link href="styles/kendo.bootstrap-v4.min.css" rel="stylesheet" type="text/css"/>
 
     <!-- jQuery JavaScript -->
     <script src="js/jquery.min.js"></script>
@@ -36,7 +34,7 @@
         <button class="k-button">Default</button>&nbsp;
         <button class="k-button k-primary">Primary</button>
     </div>
-    
+
 </form>
 
 </body>
